@@ -6,7 +6,7 @@ website:
   search: false
   page-footer: 
     left: "[Source](https://github.com/du-gartre/du-gartre.github.io)"  
-    right: right: "Built with {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
+    right: "Built with {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
   navbar:
     left:
       - href: index.qmd
