@@ -8,16 +8,26 @@ website:
     left: "[Source](https://github.com/du-gartre/du-gartre.github.io)"  
     right: "Built with {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    id: top-nav
+    pinned: true
+    toggle-position: left
+    right:
+      - index.qmd
       - about.qmd
+    tools:
+    - icon: github
+      text: GitHub
+      href: https://github.com/du-gartre
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/david-garibayt/
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
+    
 
 
 
