@@ -1,6 +1,5 @@
 ---
 title: "CV"
-format: html
 ---
 
 # Employment
@@ -11,11 +10,11 @@ format: html
 
 # Awards and honors
 
--   2025  Scholarship for master and doctoral degrees in humanities and science in foreign countries (*Ministry of Science, Humanities, Technology and Innovation, Mexico*)
--   2022  Lee B. Lusted finalist, outstanding research (*Society for Medical Decision Making, 44th Annual North American Meeting*)
--   2019-2021  Graduate Fellowship for Masters Studies (*Ministry of Science, Humanities, Technology and Innovation, Mexico*)
--   2019  Graduated with honors, Bachelor of Economics (*Faculty of Economics, National Autonomous University of Mexico*)
--   2017  Academic exchange funding scholarship (*Foundation of the National Autonomous University of Mexico*)
--   2014-2018  Academic excellence scholarship (*Alumni Association, Faculty of Economics, National Autonomous University of Mexico*)
+-   **2025**  Scholarship for master and doctoral degrees in humanities and science in foreign countries (*Ministry of Science, Humanities, Technology and Innovation, Mexico*)
+-   **2022**  Lee B. Lusted finalist, outstanding research (*Society for Medical Decision Making, 44th Annual North American Meeting*)
+-   **2019-2021**  Graduate Fellowship for Masters Studies (*Ministry of Science, Humanities, Technology and Innovation, Mexico*)
+-   **2019**  Graduated with honors, Bachelor of Economics (*Faculty of Economics, National Autonomous University of Mexico*)
+-   **2017**  Academic exchange funding scholarship (*Foundation of the National Autonomous University of Mexico*)
+-   **2014-2018**  Academic excellence scholarship (*Alumni Association, Faculty of Economics, National Autonomous University of Mexico*)
 
 # Publications
