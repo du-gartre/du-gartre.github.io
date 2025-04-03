@@ -1,11 +1,29 @@
 ---
-title: "du-gartre.github.io"
+title: "David U. Garibay Treviño"
+subtitle: "Ph.D. student in Epidemiology @ [uOttawa](https://www.uottawa.ca/en)"
+about:
+  id: hero-heading
+  image: profile.png
+  template: jolla
+  links: 
+    - icon: github
+      text: GitHub
+      href: https://github.com/du-gartre
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/david-garibayt/
+    - icon: mailbox-flag
+      text: Email
+      href: "mailto:dugari039@uOttawa.ca"
+  
 ---
 
-This is a Quarto website.
+Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is David, and I am currently studying for a Ph.D. in Epidemiology at the School of Epidemiology and Public Health ([SEPH](https://www.uottawa.ca/faculty-medicine/epidemiology)) of the University of Ottawa. 
 
-```{r}
-1 + 1
-```
+I am part of the Decision Analysis, Simulation and Health Economics Lab ([DASH Lab](https://www.dashlab.ca/)), and of the Decision Analysis in R for Technologies in Health ([DARTH](https://darthworkgroup.com/)). In the latter group, I provided courses on cost-effectiveness and decision modeling in R.
+
+Currently, I specialize in building statistical models to simulate diseases among populations and use their outcomes to evaluate hypothetical health policies applying health economic evaluation tools. My goal is to support shaping, improving, and evaluating health policies.
+
+Besides research, I dance Lindy Hop and sometimes play the guitar. I am currently training with the uOttawa rowing team. I come from Mexico (lindo y querido), however, I am currently in Ottawa, Canada.
