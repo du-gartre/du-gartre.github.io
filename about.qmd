@@ -1,5 +1,6 @@
 ---
 title: "About"
+subtitle: "hola hola"
 ---
 
 About this site
