@@ -6,11 +6,11 @@ title: "CV"
 
 -   **2021-2025** Data modeler, Health Research Consortium (CISIDAT) & Decision Analysis Under Uncertain Contexts Project (PADeCI).
 
--   2019  Policy consultant, Municipality of Aguascalientes.
+-   **2019**  Policy consultant, Municipality of Aguascalientes.
 
--   2018  Parliamentary work assistant, Senate of the Mexican Republic.
+-   **2018**  Parliamentary work assistant, Senate of the Mexican Republic.
 
--   2018  Research assistant, National Public Policy Laboratory (LNPP).
+-   **2018**  Research assistant, National Public Policy Laboratory (LNPP).
 
 # Education
 
@@ -24,7 +24,7 @@ title: "CV"
 
 # Teaching Experience
 
--   2025  Cost-Effectiveness and Decision Modeling using R workshop, Decision Analysis in R for Technologies in Health workgroup. Toronto, Canada.
+-   **2025**  Cost-Effectiveness and Decision Modeling using R workshop, Decision Analysis in R for Technologies in Health workgroup. Toronto, Canada.
 
 -   **2021**  Applied Mathematics, T.A., *Center for Research and Teaching in Economics, graduate level.* Aguascalientes, Mexico.
 
