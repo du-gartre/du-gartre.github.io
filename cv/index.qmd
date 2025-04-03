@@ -11,22 +11,11 @@ format: html
 
 # Awards and honors
 
-* Scholarship for master and doctoral degrees in humanities and science in foreign countries (_Ministry of Science, Humanities, Technology and Innovation, Mexico_)
-    + 2025
+-   2025  Scholarship for master and doctoral degrees in humanities and science in foreign countries (*Ministry of Science, Humanities, Technology and Innovation, Mexico*)
+-   2022  Lee B. Lusted finalist, outstanding research (*Society for Medical Decision Making, 44th Annual North American Meeting*)
+-   2019-2021  Graduate Fellowship for Masters Studies (*Ministry of Science, Humanities, Technology and Innovation, Mexico*)
+-   2019  Graduated with honors, Bachelor of Economics (*Faculty of Economics, National Autonomous University of Mexico*)
+-   2017  Academic exchange funding scholarship (*Foundation of the National Autonomous University of Mexico*)
+-   2014-2018  Academic excellence scholarship (*Alumni Association, Faculty of Economics, National Autonomous University of Mexico*)
 
-* Lee B. Lusted finalist, outstanding research (_Society for Medical Decision Making, 44th Annual North American Meeting_)
-    + 2022
-
-* Graduate Fellowship for Masters Studies (_Ministry of Science, Humanities, Technology and Innovation, Mexico_)
-    + 2019 - 2021
-
-* Graduated with honors, Bachelor of Economics (_Faculty of Economics, National Autonomous University of Mexico_)
-    + 2019
-
-* Academic exchange funding scholarship (_Foundation of the National Autonomous University of Mexico_)
-    + 2017
-
-* Academic excellence scholarship (_Alumni Association, Faculty of Economics, National Autonomous University of Mexico_)
-    + 2014 - 2018
-
-# Publications 
+# Publications
