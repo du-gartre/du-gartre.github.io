@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "RStudio shortcuts that will save your life\n\nNovember 10, 2023"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,5 +19,12 @@
     "title": "David U. Garibay Treviño",
     "section": "",
     "text": "Hello!\nMy name is David, and I am currently studying for a Ph.D. in Epidemiology at the School of Epidemiology and Public Health (SEPH) of the University of Ottawa.\nI am part of the Decision Analysis, Simulation and Health Economics Lab (DASH Lab), and of the Decision Analysis in R for Technologies in Health (DARTH). In the latter group, I have provided courses on cost-effectiveness and decision modeling using R.\nCurrently, I specialize in building statistical models to simulate diseases among populations and use their outcomes to evaluate hypothetical health policies applying health economic evaluation tools. My goal is to support shaping, improving, and evaluating health policies.\nBesides research, I dance Lindy Hop and sometimes play the guitar. I am currently training with the uOttawa rowing team. I come from Mexico (lindo y querido), however, I am currently in Ottawa, Canada.\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Employment\n\n\nEducation\n\n\nTeaching Experience\n\n\nAwards and honors\n\nScholarship for master and doctoral degrees in humanities and science in foreign countries (Ministry of Science, Humanities, Technology and Innovation, Mexico)\n\n2025\n\nLee B. Lusted finalist, outstanding research (Society for Medical Decision Making, 44th Annual North American Meeting)\n\n2022\n\nGraduate Fellowship for Masters Studies (Ministry of Science, Humanities, Technology and Innovation, Mexico)\n\n2019 - 2021\n\nGraduated with honors, Bachelor of Economics (Faculty of Economics, National Autonomous University of Mexico)\n\n2019\n\nAcademic exchange funding scholarship (Foundation of the National Autonomous University of Mexico)\n\n2017\n\nAcademic excellence scholarship (Alumni Association, Faculty of Economics, National Autonomous University of Mexico)\n\n2014 - 2018\n\n\n\n\nPublications"
   }
 ]
