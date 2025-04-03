@@ -12,7 +12,6 @@ website:
     pinned: true
     toggle-position: left
     right:
-      - index.qmd
       - about.qmd
     tools:
     - icon: github

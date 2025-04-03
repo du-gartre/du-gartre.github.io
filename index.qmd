@@ -18,6 +18,8 @@ about:
   
 ---
 
+::: {#hero-heading}
+
 Hello!
 
 My name is David, and I am currently studying for a Ph.D. in Epidemiology at the School of Epidemiology and Public Health ([SEPH](https://www.uottawa.ca/faculty-medicine/epidemiology)) of the University of Ottawa. 
@@ -27,3 +29,6 @@ I am part of the Decision Analysis, Simulation and Health Economics Lab ([DASH L
 Currently, I specialize in building statistical models to simulate diseases among populations and use their outcomes to evaluate hypothetical health policies applying health economic evaluation tools. My goal is to support shaping, improving, and evaluating health policies.
 
 Besides research, I dance Lindy Hop and sometimes play the guitar. I am currently training with the uOttawa rowing team. I come from Mexico (lindo y querido), however, I am currently in Ottawa, Canada.
+
+:::
+
