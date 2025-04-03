@@ -1,0 +1,7 @@
+---
+title: "Blog"
+subtitle: "Blog entries in which I have collaborated in the past"
+---
+
+* [RStudio shortcuts that will save your life](https://www.hertiecodingclub.com/learn/rstudio/r_shortcuts/)
+    + November 10, 2023

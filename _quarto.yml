@@ -13,6 +13,8 @@ website:
     toggle-position: left
     right:
       - about.qmd
+      - blog/index.qmd
+      - cv/index.qmd
     tools:
     - icon: github
       text: GitHub
