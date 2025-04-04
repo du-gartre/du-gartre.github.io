@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-subtitle: "Blog entries in which I have collaborated in the past"
+subtitle: "Blog entries I’ve collaborated on in the past:"
 ---
 
 * [RStudio shortcuts that will save your life](https://www.hertiecodingclub.com/learn/rstudio/r_shortcuts/)
