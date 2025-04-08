@@ -5,3 +5,8 @@ subtitle: "Blog entries I’ve collaborated on in the past:"
 
 * [RStudio shortcuts that will save your life](https://www.hertiecodingclub.com/learn/rstudio/r_shortcuts/)
     + November 10, 2023
+
+* [demogmx](https://padeci.github.io/demogmx/)
+    + Repository for a package that provides demographic information of Mexico (still in development).
+    + Online [shiny app](https://d-garibay.shinyapps.io/shiny_main/).
+
